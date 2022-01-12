@@ -2607,7 +2607,7 @@ input, select, textarea {
 			}
 
 			.carousel article .image {
-				position: relative;
+				position: top;
 				left: -1em;
 				top: 0;
 				width: auto;
